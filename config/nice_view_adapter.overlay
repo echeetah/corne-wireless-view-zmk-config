@@ -1,0 +1,3 @@
+&nice_view_spi {
+    spi-max-frequency = <1000000>;
+};
